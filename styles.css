@@ -27,3 +27,13 @@ li {
   font-size: 20px;
   color: olive;
 }
+
+button {
+  background-color: cyan;
+  color: black;
+}
+
+button:hover {
+  color: blue;
+  background-color: cyan;
+}
